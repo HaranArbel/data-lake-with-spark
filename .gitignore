@@ -1,2 +1,4 @@
-dl.cfg
+.DS_Store
 .idea/
+ignore/
+*.pem
